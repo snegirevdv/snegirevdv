@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Python developer currently learning web development and working on various projects.
+I'm a beginner backend developer currently learning web development and working on various projects.
 
 #### 🔨 Skills
 - **Languages**: Python (Advanced), JavaScript (Basic)
