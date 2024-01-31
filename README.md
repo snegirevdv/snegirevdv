@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**snegirevdv/snegirevdv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer currently learning web development and working on various projects.
 
-Here are some ideas to get you started:
+#### 🔨 Skills
+- **Languages**: Python (Advanced), JavaScript (Basic)
+- **Frameworks**: Django, Flask
+- **Web Technologies**: HTML, CSS, HTTP
+- **Databases**: SQLite 🙈
+- **Tools**: Git, GitHub, VS Code, Linux, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 Let's Connect
+- **Email**: snegirev.dv@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](link_to_your_linkedin)
+- **Telegram**: @ds90007
+
+#### 🌍 Location
+- Based in Antalya, Turkey
+
+#### 💻 Looking for Opportunities
+- I'm open to remote work opportunities in backend development.
+
+Feel free to reach out and connect with me!
