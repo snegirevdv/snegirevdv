@@ -11,7 +11,7 @@ I'm a beginner backend developer currently learning web development and working 
 
 #### 📫 Let's Connect
 - **Email**: snegirev.dv@gmail.com
-- **LinkedIn**: [Denis Snegirev](https://www.linkedin.com/in/denis-snegirev/))
+- **LinkedIn**: [Denis Snegirev](https://www.linkedin.com/in/denis-snegirev/)
 - **Telegram**: @ds90007
 
 #### 🌍 Location
