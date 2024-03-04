@@ -6,7 +6,7 @@ I'm a beginner backend developer currently learning web development and working 
 - **Languages**: Python (Advanced), JavaScript (Basic)
 - **Frameworks**: Django, Flask
 - **Web Technologies**: HTML, CSS, HTTP
-- **Databases**: SQLite 🙈
+- **Databases**: PostgreSQL
 - **Tools**: Git, GitHub, VS Code, Linux, Bash
 
 #### 📫 Let's Connect
