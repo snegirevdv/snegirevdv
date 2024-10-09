@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-I'm a beginner backend developer currently learning web development and working on various projects.
+I'm a developer currently learning backend development and working on various projects.
 
 #### 🔨 Skills
-- **Languages**: Python (Advanced), JavaScript (Basic)
-- **Frameworks**: Django, Flask
-- **Web Technologies**: HTML, CSS, HTTP
-- **Databases**: PostgreSQL
-- **Tools**: Git, GitHub, VS Code, Linux, Bash
+- **Language**: Python
+- **Frameworks and libraries**: Django, Django Rest Framework, Flask, FastAPI, Pydantic
+- **Frontend**: HTML, CSS
+- **Databases**: SQL, PostgreSQL, SQL Alchemy
+- **Tests**: Pytest
+- **DevOps**: CI/CD, GitHub Actions, Docker, Docker Compose
+- Git, GitHub, Linux, REST API
 
 #### 📫 Let's Connect
 - **Email**: snegirev.dv@gmail.com
